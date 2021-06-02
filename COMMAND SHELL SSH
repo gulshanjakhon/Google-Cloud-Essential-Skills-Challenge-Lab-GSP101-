@@ -1,0 +1,29 @@
+LAB NAME : Google Cloud Essential Skills: Challenge Lab(GSP101) 100% COMPLETE 💥💥
+JUST COPY AND PASTE IN SHELL :
+
+============================================================
+TASK 1 : Create a Compute Engine instance, add necessary firewall rules.
+	GOTO VM INSTANCES 
+		=> CREATE VM
+		=> NAME IT "apache"
+			=> series N1
+			=> click on allow htttps trafic 
+			NOW CLICK ON CREATE VM
+ 
+=========================================================
+TASK 2 : Configure Apache2 Web Server in your instance
+	Use these commands in SSH :
+=====================================================
+
+sudo su -
+apt-get install apache2 -y
+service --status-all
+
+=========================================================
+TASK 3 : Test your server
+=========================================================
+
+CLICK ON External IP AND PASTE ON BROWSER.
+
+=====================THE END======================
+Thank you!!✌
